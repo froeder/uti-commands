@@ -30,4 +30,11 @@ history grep | comandoAserPesquisado
 
 ```
 
+## Others
+
+To ad Ambient Variables without admin access in Windows
+
+```
+rundll32 sysdm.cpl,EditEnvironmentVariables
+```
 
